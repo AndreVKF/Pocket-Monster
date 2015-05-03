@@ -1,0 +1,45 @@
+#******************
+#POKEMON TYPE CHART
+#******************
+#
+START TYPES(18)
+0:Normal
+1:Fire
+2:Water
+3:Eletric
+4:Grass
+5:Ice
+6:Fighting
+7:Poison
+8:Ground
+9:Flying
+10:Psychic
+11:Bug
+12:Rock
+13:Ghost
+14:Dragon
+15:Dark
+16:Steel
+17:Fairy
+END TYPES
+#
+START TABLE
+C C C C C C C C C C C C M N C C M C
+C M M C D D C C C C C D M C M C D C
+C D M C M C C C D C C C D C M C C C
+C C D M M C C C N D C C C C M C C C
+C M D C M C C M D M C M D C M C M C
+C M M C D M C C D D C C C C D C M C
+D C C C C D C M C M M M D N C D D M
+C C C C D C C M M C C C M M C C N D
+C D C D M C C D C N C M D C C C D C
+C C C M D C D C C C C D M C C C M C
+C C C C C C D D C C M C C C C N M C
+C M C C D C M M C M D C C M C D M M
+C D C C C D M C M D C D C C C C M C
+N C C C C C C C C C D C C D C M C C
+C C C C C C C C C C C C C C D C M N
+C C C C C C M C C C D C C D C M C M
+C M M M C D C C C C C C D C C C M D
+C M C C C C D M C C C C C C D D M C
+END TABLE
