@@ -1,0 +1,11 @@
+MxMxMxMxMxMxMxM
+x,x,x,x,x,x,x,x
+MxFlFlPxAxPlVxM
+x,l,l,l,x,l,l,x
+MxFlClPxAxPlExM
+x,l,l,l,x,l,l,x
+MxClClClPlElExM
+x,l,l,l,l,l,l,x
+MxMxVlElElElFxM
+x,x,x,x,x,x,x,x
+MxMxMxMxMxMxMxM

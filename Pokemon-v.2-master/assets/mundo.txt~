@@ -1,0 +1,13 @@
+SIZE(8,6)
+
+x,M,x,M,x,M,x,M,x,M,x,M,x,M,x,M,x
+  x,  x,  x,  x,  x,  x,  x,  x
+x,M,x,F,l,F,l,P,x,A,x,P,l,V,x,M,x
+  x,  l,  l,  l,  x,  l,  l,  x
+x,M,x,F,l,C,l,P,x,A,x,P,l,E,x,M,x
+  x,  l,  l,  l,  x,  l,  l,  x
+x,M,x,C,l,C,l,C,l,P,l,E,l,E,x,M,x
+  x,  l,  l,  l,  l,  l,  l,  x
+x,M,x,M,x,V,l,E,l,E,l,E,l,F,x,M,x
+  x,  x,  x,  x,  x,  x,  x,  x
+x,M,x,M,x,M,x,M,x,M,x,M,x,M,x,M,x
